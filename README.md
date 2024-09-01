@@ -17,6 +17,9 @@ vidio dokumentasi:
 https://drive.google.com/file/d/105EzQ2BD-yP6i0ELr9YVUiwa5S1M5WPq/view?usp=drivesdk
 
 include library yg digunakan: 
+
 HTTPSRedirect-master
+
 LiquidCrystal_I2C-master
+
 MFRC522
